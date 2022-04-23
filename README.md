@@ -1,2 +1,2 @@
 # HW_1_SIW
-Primo Homework del corso di sistemi informativi sul web
+Primo Homework per il corso di Sistemi Informativi sul Web
